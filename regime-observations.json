@@ -1,0 +1,82 @@
+[
+  {
+    "regime_id": 1,
+    "title": "Risk-Off with Macro Pressure",
+    "observations": [
+      "Strong negative beta to BTC and equity risk proxies",
+      "Dollar strength and rates volatility are elevated",
+      "Gold-copper ratio suggests risk aversion"
+    ],
+    "summary": "This regime reflects broad risk-off sentiment, with high aversion to speculative and pro-growth assets. Investors appear to favor safety, possibly during tightening cycles or global uncertainty."
+  },
+  {
+    "regime_id": 2,
+    "title": "Broad Defensive Positioning",
+    "observations": [
+      "Credit spreads are wide (HYG vs IEF, HYG vs LQD)",
+      "Low conviction in equities and weakness in commodities",
+      "Gold-copper ratio suggests industrial weakness"
+    ],
+    "summary": "Markets are defensively postured across fixed income and commodities. This often occurs during recession fears or tightening cycles, where protection is favored across asset classes."
+  },
+  {
+    "regime_id": 3,
+    "title": "High Volatility Correction",
+    "observations": [
+      "Elevated realized and implied volatility across SPY and VIX",
+      "Strong divergence from moving averages",
+      "Short-term positioning suggests de-risking"
+    ],
+    "summary": "This regime reflects a spike in market stress, likely during sharp corrections. Volatility is pronounced and market behavior becomes less predictable. Traders prioritize liquidity and hedging."
+  },
+  {
+    "regime_id": 4,
+    "title": "Speculative Risk-On",
+    "observations": [
+      "Crypto and BTC proxies are strongly positive",
+      "Volatility is declining or contained",
+      "USD is weak, signaling risk-on carry behavior"
+    ],
+    "summary": "A bullish, speculative environment with strong momentum in risk assets. Traders rotate into high-beta trades as volatility compresses and macro conditions appear benign."
+  },
+  {
+    "regime_id": 5,
+    "title": "Macro Momentum Rally",
+    "observations": [
+      "Strong risk-on signals from SPY/IEF and TLT ratios",
+      "Precious metals and crypto assets are gaining",
+      "USD is neutral or weakening"
+    ],
+    "summary": "Markets are in a clear momentum phase with broad participation. Both traditional and alternative assets are bid, likely in response to dovish macro shifts or strong earnings growth."
+  },
+  {
+    "regime_id": 6,
+    "title": "Crypto-Led Dislocation",
+    "observations": [
+      "BTC and crypto proxies dominate the signal",
+      "Commodities and inflation proxies are weak",
+      "MOVE Index volatility is low despite high dispersion"
+    ],
+    "summary": "This regime is likely driven by crypto-specific catalysts, leading to uncorrelated price action. Broader markets remain calm, suggesting the dislocation is isolated to digital assets."
+  },
+  {
+    "regime_id": 7,
+    "title": "Rates-Driven Volatility Spike",
+    "observations": [
+      "VIX and volatility spreads are sharply elevated",
+      "SPY trend breaks are driving market stress",
+      "Credit spreads and inflation volatility are rising"
+    ],
+    "summary": "A clear rates-driven volatility shock where inflation fears or hawkish policy drive disorderly market behavior. Expect poor risk-adjusted returns and unpredictable price action."
+  },
+  {
+    "regime_id": 8,
+    "title": "Complacent Low Conviction",
+    "observations": [
+      "Volatility metrics are suppressed across the board",
+      "Mixed macro signals with no clear driver",
+      "Market appears range-bound and uncertain"
+    ],
+    "summary": "A quiet regime characterized by low conviction and low volatility. Investors are waiting for clearer signals, and market movements are driven by positioning rather than fundamentals."
+  }
+]
