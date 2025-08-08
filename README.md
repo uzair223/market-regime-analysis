@@ -1,5 +1,7 @@
 # Market Regime Analysis Using UMAP + GMM
 
+View Notebook: https://uzair223.github.io/market-regime-analysis/market-regime-analysis.html
+
 This project explores **market regime discovery** using a combination of unsupervised learning techniques — **UMAP** for dimensionality reduction and **Gaussian Mixture Models (GMM)** for clustering. The aim is to identify distinct market conditions based on macroeconomic, volatility, and sentiment indicators, and to test whether these regimes hold predictive value for trading strategies.
 
 ## 🔍 Project Goals
